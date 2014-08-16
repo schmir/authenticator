@@ -1,6 +1,7 @@
 (defproject authenticator "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "easily create java.net.Authenticator instances"
+  :url "https://github.com/schmir/authenticator"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :aot [authenticator.impl]
   :dependencies [[org.clojure/clojure "1.6.0"]])
