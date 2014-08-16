@@ -1,4 +1,4 @@
-(defproject authenticator "0.1.0-SNAPSHOT"
+(defproject authenticator "0.1.1-SNAPSHOT"
   :description "easily create java.net.Authenticator instances"
   :url "https://github.com/schmir/authenticator"
   :license {:name "Eclipse Public License"
