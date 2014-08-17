@@ -52,6 +52,8 @@ argument. It contains the following keys:
   <dd>:proxy for a Proxy or :server otherwise</dd>
 </dl>
 
+The function should return a [username, password] pair to be used with
+the connection or nil if it can't supply credentials.
 
 ## License
 
