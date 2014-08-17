@@ -6,4 +6,5 @@
   :aot [authenticator.impl]
   :scm {:name "git"
         :url "https://github.com/schmir/authenticator"}
+  :deploy-repositories [["releases" :clojars]]
   :dependencies [[org.clojure/clojure "1.6.0"]])
