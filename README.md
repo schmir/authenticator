@@ -6,6 +6,11 @@ implement a [java.net.Authenticator](http://docs.oracle.com/javase/8/docs/api/ja
 Authenticators can be asked to provide username and password for
 network connections that require them.
 
+## Installation
+
+authenticator artifacts are released on clojars.
+
+[![Clojars Project](http://clojars.org/authenticator/latest-version.svg)](http://clojars.org/authenticator)
 
 ## Usage
 
